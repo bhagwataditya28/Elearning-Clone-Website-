@@ -1,6 +1,6 @@
 # 📚 Learning Clone  
 
-A feature-rich **e-learning platform** for online education, designed with **CodeIgniter, PHP, MySQL, Bootstrap**, and more.  
+A feature-rich **e-learning platform** for online education, designed with **CodeIgniter, PHP, MySQL, Bootstrap**.  
 
 Project Screenshot!![Image](https://github.com/user-attachments/assets/966351fa-51d1-45c5-bf09-63833540f9ea)
 
